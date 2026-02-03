@@ -1,0 +1,9 @@
+Lab 1 Reflection
+
+For my first lab, I built a basic Android app. I used the activity_main.xml file to set up the design,
+like adding the input box and the buttons.
+Then, in the MainActivity.java file, I wrote the code to make the app actually work.
+
+I learned how to connect the design to the code using findViewById.
+I also figured out how to use a "Toast" message to show a welcome popup with the name I typed in.
+It was a good start to understanding how Android apps are put together.
