@@ -1,0 +1,5 @@
+Lab 2 Reflection
+
+In this lab, I designed a login screen for my app. I used the XML file to add an image, a username box,
+and a password field. I learned how to set the password input so it hides the numbers.
+I also practiced connecting these design elements to the Java code using findViewById.

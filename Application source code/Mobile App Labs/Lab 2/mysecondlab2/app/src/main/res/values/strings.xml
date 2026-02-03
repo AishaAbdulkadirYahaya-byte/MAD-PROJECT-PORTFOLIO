@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my second lab</string>
+    <string name="textview">name</string>
+    <string name="name">" User Name\n"</string>
+    <string name="todo">TODO</string>
+    <string name="PASSWORD">ENTER USER NAME</string>
+    <string name="LINKED">ENTER YOUR USER NAME</string>
+    <string name="plain">ENTER YOUR USER NAME</string>
+    <string name="password">password</string>
+    <string name="btn">submit</string>
+</resources>
