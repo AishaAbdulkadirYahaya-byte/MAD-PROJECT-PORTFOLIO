@@ -1,0 +1,6 @@
+Lab 3 Reflection
+
+For Lab 3, I created a calculator application. I used LinearLayout with weights in the XML file to arrange the buttons into a grid. 
+In the Java code, I set up listeners for all the number and operation buttons.
+I also attempted to use a ScriptEngine to calculate the final result when the equals button is pressed.
+This lab helped me practice handling many different button clicks at once.
